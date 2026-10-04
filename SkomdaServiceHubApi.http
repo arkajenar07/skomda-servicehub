@@ -1,0 +1,6 @@
+@SkomdaServiceHubApi_HostAddress = http://localhost:5171
+
+GET {{SkomdaServiceHubApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
